@@ -1,6 +1,6 @@
 # House Prices Prediction 
 
-## Introduction
+## Introduction
 House Price Prediction is a crucial part of understanding and managing the real estate market. This project aims to analyze and predict house prices based on factors such as area, number of bedrooms, and other characteristics of the house.
 
 Understanding the value of these factors not only helps buyers and sellers make smarter decisions but also helps investors identify potential investment opportunities and minimize risks.
