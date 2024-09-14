@@ -8,7 +8,7 @@ Understanding the value of these factors not only helps buyers and sellers make 
 The project uses data from Kaggle[[1]](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction/data) and applies data analysis methods as well as machine learning models to analyze and predict house prices. The analysis results will provide insights into the factors affecting house prices and help stakeholders make more accurate decisions in choosing to buy a house.
 
 ## Summary of analysis results
-1. Average House Price by Equipment status: As you can see the chart shows that:
+### 1. Average House Price by Equipment status: As you can see the chart shows that:
 - **Furnished houses** have the highest average price.
 - **Unfurnished houses** have a lower average price.
 - **Semi-furnished houses** have the lowest average price.
@@ -18,7 +18,7 @@ The project uses data from Kaggle[[1]](https://www.kaggle.com/datasets/harishkum
 
 
 
-2. Average House Price by Equipment status: 
+### 2. Average House Price by Equipment status: 
 
 
 As you can see, the prices of houses located in priority areas are higher than the prices of houses that are not located in priority areas, however, choosing to buy a house that is not located in priority areas is also not a bad choice if you do not have enough financial resources.
@@ -26,8 +26,17 @@ As you can see, the prices of houses located in priority areas are higher than t
 ![Result of average price by prefarea](notebooks/result/house_price_by_prefarea.png)
 
 
-3. 
+### 3. Average House Price by Equipment status
 
+Houses with more floors clearly have higher prices. This could be due to various factors such as higher construction costs.
+
+
+**Advice for customers**:
+- If you do not have sufficient finances, choosing a single-story house is a reasonable option for you.
+- If you need more space, multi-story houses will meet this need, but you need to prepare for higher costs.
+- Besides the number of floors, you should also consider other factors such as location, availability of full amenities, and the condition of the interior to make a suitable house purchase decision.
+
+![Result of average price by prefarea](notebooks/result/house_price_by_stories.png)
 
 ## Files
 
