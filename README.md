@@ -14,8 +14,19 @@ The project uses data from Kaggle[[1]](https://www.kaggle.com/datasets/harishkum
 - **Semi-furnished houses** have the lowest average price.
 
 
-Choose the type of house based on your budget and needs.
-![Result of average price by stories](notebooks/result/house_price_by_equipments_status.png)
+![Result of average price by equipment status](notebooks/result/house_price_by_equipments_status.png)
+
+
+
+2. Average House Price by Equipment status: 
+
+
+As you can see, the prices of houses located in priority areas are higher than the prices of houses that are not located in priority areas, however, choosing to buy a house that is not located in priority areas is also not a bad choice if you do not have enough financial resources.
+
+![Result of average price by prefarea](notebooks/result/house_price_by_prefarea.png)
+
+
+3. 
 
 
 ## Files
