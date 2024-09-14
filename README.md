@@ -45,7 +45,7 @@ Houses with more floors clearly have higher prices. This could be due to various
 - `README.md`: Manual file, providing an overview of the document and how to use it.
 - `requirements.txt`: The file contains a list of libraries required to run the notebook.
 - `notebook.ipynb`: This jupyter Notebook file containing source code, data analysis.
-- `data.csv`: The database contains information about homes, including factors such as price, square footage, number of bedrooms, number of bathrooms, and many other characteristics.
+- `Housing.csv`[[1]](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction/data): The database contains information about homes, including factors such as price, square footage, number of bedrooms, number of bathrooms, and many other characteristics.
 
 ## References
 
