@@ -8,6 +8,8 @@ Understanding the value of these factors not only helps buyers and sellers make 
 The project uses data from Kaggle[[1]](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction/data) and applies data analysis methods as well as machine learning models to analyze and predict house prices. The analysis results will provide insights into the factors affecting house prices and help stakeholders make more accurate decisions in choosing to buy a house.
 
 ## Summary of analysis results
+1. ![Alt text](notebooks/result/house_price_by_prefarea.png)
+
 
 ### Files
 
