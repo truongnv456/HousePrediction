@@ -18,7 +18,7 @@ Choose the type of house based on your budget and needs.
 ![Result of average price by stories](notebooks/result/house_price_by_equipments_status.png)
 
 
-### Files
+## Files
 
 - `LICENSE`: The file contains information about the document's license.
 - `README.md`: Manual file, providing an overview of the document and how to use it.
