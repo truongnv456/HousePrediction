@@ -54,8 +54,11 @@ Houses with more floors clearly have higher prices. This could be due to various
 ## LICENSE
 
 - This data can be used publicly (CC0 (No Copyright)).
-- You can see more details in here [here](https://creativecommons.org/publicdomain/zero/1.0/)
+- You can see more details in here [[here]](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ## Thanks
 
 Thanks to Kaggle for providing the data to make this project possible. Thanks for reviewing and reading our project!
+
+
+You can my blog post in [[here]](https://medium.com/@truongnv2k1020/house-price-prediction-d582ffe704a9)
